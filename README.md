@@ -57,4 +57,4 @@ ChamFoodie aims to provide a smooth and delightful food ordering experience for 
 
 ## 🌐 Live Demo
 
-[Open the Live Demo](https://your-username.github.io/your-repository-name/)
+[Open the Live Demo](http://chamfoodie.io/)
